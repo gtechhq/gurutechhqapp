@@ -843,8 +843,10 @@ section {
 --------------------------------------------------------------*/
 .hero-section {
   background:  linear-gradient(to right, rgba(16, 18, 22, 0.8) 0%, rgba(57, 59, 59, 0.8) 100%) ;
+  background-image: url('https://images.unsplash.com/photo-1531973576160-7125cd663d86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c29mdHdhcmUlMjBjb21wYW55fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
   position: relative;
   background-repeat: no-repeat;
+ height:100%;
   background-color: #000;
    }
 
